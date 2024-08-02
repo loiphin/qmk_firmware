@@ -80,3 +80,7 @@
 
 /* HC595 driver configure */
 #define HC595_END_INDEX 19
+
+/* Double tap left shift to enable Caps Word */
+#define DOUBLE_TAP_SHIFT_TURNS_ON_CAPS_WORD
+
